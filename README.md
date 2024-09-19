@@ -1,5 +1,13 @@
-# Desafio avançado - Recriando layout
+# 💻 O que aprendi neste desafio
 
-# 💻 Sobre o desafio
+Nesse desafio recriei uma aplicação para treinar o que aprendi até agora no **Stage 02**.
 
-Nesse desafio, você deverá recriar uma aplicação, a partir de um layout, para treinar o que aprendeu até agora no **Stage 02**.
+- Conceitos de box model
+- Flexbox
+- Acessibilidade
+- Alinhamentos
+- Fontes
+- Botões
+- Background
+
+![image](https://github.com/user-attachments/assets/edce3807-abd7-4795-929b-8337b0fafc31)
